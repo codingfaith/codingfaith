@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codingfaith
+- 👋 Hi, I’m codingfaith
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on open source projects
