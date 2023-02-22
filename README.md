@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me @coding_faith on twitter
+- 📫 Tweet at me on @coding_faith
 
 <!---
 codingfaith/codingfaith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
