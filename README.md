@@ -1,6 +1,6 @@
-- 👋 Hi, I’m codingfaith
+- 👋 Hi, I’m Faith
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning advanced React and Wordpress
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Tweet at me on @coding_faith
 
